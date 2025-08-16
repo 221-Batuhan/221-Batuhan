@@ -8,7 +8,7 @@
 
 ## 🔧 Core Skills
 - **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js, Next.js, Express.js  
 - **Databases:** MongoDB, PostgreSQL  
 - **AI/ML:** Python, TensorFlow, scikit-learn  
 - **DevOps & Tools:** Git, Docker, Vercel, Railway  
@@ -18,7 +18,7 @@
 ## 📂 Selected Projects
 
 ### 🛒 [E-commerce Website](https://github.com/221-Batuhan/ecommerce-store)
-A fully functional e-commerce platform built with **React + Node.js + MongoDB**.  
+A fully functional e-commerce platform built with **React + Next.js + MongoDB**.  
 **Key Achievements:**  
 - Implemented JWT-based authentication & role-based access  
 - Developed shopping cart, checkout flow, and product filtering  
