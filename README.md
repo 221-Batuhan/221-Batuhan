@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋 I'm Batuhan Açan
 
-<!--
-**221-Batuhan/221-Batuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year Computer Engineering Student at Altınbaş University  
+🌍 Erasmus Exchange at **Bialystok University of Technology, Poland**  
+💻 Building **full-stack web applications** with a focus on **deployable projects** and **AI-enhanced features**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Core Skills
+- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, PostgreSQL  
+- **AI/ML:** Python, TensorFlow, scikit-learn  
+- **DevOps & Tools:** Git, Docker, Vercel, Railway  
+
+---
+
+## 📂 Selected Projects
+
+### 🛒 [E-commerce Website](https://github.com/221-Batuhan/ecommerce-store)
+A fully functional e-commerce platform built with **React + Node.js + MongoDB**.  
+**Key Achievements:**  
+- Implemented JWT-based authentication & role-based access  
+- Developed shopping cart, checkout flow, and product filtering  
+- Deployed on Vercel with CI/CD for continuous updates  
+
+### ✍️ [Blog Platform](https://github.com/221-Batuhan/blog-platform)
+Full-stack blog platform allowing users to register, authenticate, and manage posts.  
+**Highlights:**  
+- MERN stack + JWT authentication  
+- Responsive design for mobile & desktop  
+- Ready for AI-powered content suggestions  
+
+---
+
+## 🎓 Education
+- **Altınbaş University**, Computer Engineering, 4th Year  
+- **Erasmus Exchange**, Bialystok University of Technology, Poland / 21.02.2025 - 09.07.2025 (Computer Science)
+
+---
+
+## 🌍 About Me
+I build **web applications that can be deployed and used in real scenarios**, with an interest in adding **AI-powered enhancements**.  
+During my **Erasmus semester**, I collaborated on international projects and strengthened my skills in software engineering, teamwork, and problem-solving.  
+Currently, I’m **expanding my portfolio** with full-stack projects that combine practical web development and AI integration.
+
+---
+
+## 📫 Get in Touch
+- LinkedIn: [linkedin.com/in/batuhanacan221](https://linkedin.com/in/batuhanacan221)  
+- Email: acan.batuhan34@gmail.com
