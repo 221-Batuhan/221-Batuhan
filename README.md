@@ -20,9 +20,9 @@
 ### 🛒 [E-commerce Website](https://github.com/221-Batuhan/ecommerce-store)
 A fully functional e-commerce platform built with **React + Next.js + MongoDB**.  
 **Key Achievements:**  
-- Implemented JWT-based authentication & role-based access  
-- Developed shopping cart, checkout flow, and product filtering  
-- Deployed on Vercel with CI/CD for continuous updates  
+- Developing a responsive e-commerce app with product listing, cart, and checkout features.
+- Developed shopping cart, checkout flow, and product filtering.
+- Designing a modern UI with light/dark mode support.
 
 ### ✍️ [Blog Platform](https://github.com/221-Batuhan/blog-platform)
 Full-stack blog platform allowing users to register, authenticate, and manage posts.  
