@@ -31,6 +31,14 @@ Full-stack blog platform allowing users to register, authenticate, and manage po
 - Responsive design for mobile & desktop  
 - Ready for AI-powered content suggestions  
 
+### ✍️ [Weather App](https://github.com/221-Batuhan/my-weatherapp)
+Modern weather dashboard that lets users search for cities and view real-time weather conditions.  
+**Highlights:**  
+- Built with Next.js + TailwindCSS 
+- Integrated OpenWeather API for live data 
+- Light/Dark mode with localStorage persistence
+- Fully responsive design optimized for all devices  
+
 ---
 
 ## 🎓 Education
