@@ -1,37 +1,31 @@
 name: Generate Snake
 
 on:
-  # Her gece yarısı (UTC 00:00) otomatik çalışır
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # İstediğin zaman "Run workflow" diyerek elle de çalıştırabilirsin
-  workflow_dispatch:
-
-# HATA ALMAMAK İÇİN GEREKLİ İZİN AYARI:
-permissions: 
-  contents: write
+    - cron: "0 */12 * * *" # Her 12 saatte bir çalışır
+  workflow_dispatch: # Manuel tetikleme için
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # --- İZİN SORUNUNU ÇÖZEN KISIM ---
+    permissions: 
+      contents: write
+    # ---------------------------------
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Yılanı oluşturan ana komut (Platane/snk)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # GitHub kullanıcı adın otomatik alınır
           github_user_name: ${{ github.repository_owner }}
-          
-          # Çıktı olarak 2 dosya üretir: Biri normal, biri karanlık mod için
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Oluşan dosyaları 'output' adında gizli bir branch'e yükler
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
