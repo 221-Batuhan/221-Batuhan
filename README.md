@@ -47,21 +47,12 @@ My interests focus on **full-stack development**, **AI**, **blockchain**, and **
 ## 📊 GitHub Stats & Contribution Snake
 
 <div align="center">
-
-### 🔥 GitHub Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=221-Batuhan&theme=tokyonight&hide_border=true)
-
-### 📈 GitHub Profile Stats
-![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=221-Batuhan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=tokyonight)
-
-### 🔤 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🐍 GitHub Contribution Snake
-![GitHub Snake](https://github.com/221-Batuhan/221-Batuhan/raw/output/dist/github-contribution-grid-snake.svg)
-![GitHub Snake Dark](https://github.com/221-Batuhan/221-Batuhan/raw/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark.svg)
-
+  <h3> 🐍 Benim Kodlama Geçmişim (Commitlerim) </h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/batuhanacan221/batuhanacan221/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/batuhanacan221/batuhanacan221/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/batuhanacan221/batuhanacan221/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
