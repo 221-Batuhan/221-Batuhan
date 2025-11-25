@@ -25,8 +25,6 @@ My interests focus on **full-stack development**, **AI**, **blockchain**, and **
 
 ## 🛠️ Technical Arsenal
 
-I build scalable, modern applications using a diverse set of tools.
-
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
@@ -46,7 +44,7 @@ I build scalable, modern applications using a diverse set of tools.
 
 ---
 
-## 📊 Commit Graph
+## 📊 GitHub Stats & Contribution Snake
 
 <div align="center">
 
@@ -60,7 +58,8 @@ I build scalable, modern applications using a diverse set of tools.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🐍 GitHub Contribution Snake
-![GitHub Snake](https://github.com/221-Batuhan/221-Batuhan/raw/output/github-contribution-snake.svg)
+![GitHub Snake](https://github.com/221-Batuhan/221-Batuhan/raw/output/dist/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://github.com/221-Batuhan/221-Batuhan/raw/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark.svg)
 
 </div>
 
