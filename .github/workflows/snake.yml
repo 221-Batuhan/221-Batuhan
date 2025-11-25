@@ -1,27 +1,40 @@
-name: GitHub Contribution Snake
+name: Generate Snake
 
+# Ne zaman çalışacağını belirliyoruz
 on:
+  # Her 12 saatte bir otomatik çalışır
   schedule:
-    - cron: '0 0 * * *' # Her gün UTC 00:00'da çalışır
-  workflow_dispatch: # Manuel tetikleme
+    - cron: "0 */12 * * *" 
+  
+  # İstersen Actions sekmesinden manuel olarak da tetikleyebilirsin
+  workflow_dispatch:
 
+# İşlem adımları
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate GitHub Contribution Snake SVG
+      # Repoyu kontrol et
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Yılan animasyonunu oluştur (Platane/snk aksiyonu kullanılır)
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
+          # GitHub kullanıcı adın otomatik alınır
           github_user_name: ${{ github.repository_owner }}
+          
+          # Çıktı dosyaları (Hem normal hem de Dark mode için)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push generated files
-        uses: stefanzweifel/git-auto-commit-action@v4
+
+      # Oluşan dosyaları 'output' branch'ine yükle
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          commit_message: "Update GitHub contribution snake 🌱"
-          branch: output
-          file_pattern: "dist/**"
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "actions@github.com"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
