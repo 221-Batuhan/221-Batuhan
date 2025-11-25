@@ -1,38 +1,36 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0aff60,00bfff&height=280&section=header&text=Batuhan%20Acan&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Blockchain%20Architect&descAlignY=60&descSize=25&fontColor=ffffff&stroke=000000&strokeWidth=1" width="100%" alt="Batuhan Acan Header" />
+</div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Batuhan+Acan;Computer+Engineer+%40+Altinbas+Uni.;Full-Stack+Developer;AI+%26+Blockchain+Explorer" alt="Typing SVG" />
-
-  <br/>
+<div align="center">
 
   <a href="https://www.linkedin.com/in/batuhanacan221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://batuhanacan.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:acan.batuhan34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 </div>
-
-<br/>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Senior **Computer Engineering student at Altınbaş University**, passionate about bridging the gap between theoretical architecture and real-world application. 
+I am a Senior **Computer Engineering student at Altınbaş University**, bridging the gap between theoretical architecture and real-world application. 
 
-My journey includes a transformative semester at **Politechnika Białostocka (Erasmus+)**, which shaped my global perspective on tech. I specialize in building scalable web architectures, decentralized applications (DApps), and AI-driven solutions.
+My journey includes a transformative semester at **Politechnika Białostocka (Erasmus+)**, which shaped my global perspective on tech. Currently, I am applying my skills as an intern at **SkyTrade**, while building scalable web architectures, decentralized applications (DApps), and AI-driven solutions on the side.
 
-* 🔭 **Currently:** Sharpening my Full-Stack skills through professional internship experiences.
+* 🔭 **Focus:** High-performance Full-Stack Architectures.
 * 🌱 **Exploring:** LLM Agents, Advanced Cloud Patterns, and Web3 Security.
 * ⚡ **Motto:** *"Code is poetry, architecture is the structure."*
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 Achievements
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -42,7 +40,7 @@ My journey includes a transformative semester at **Politechnika Białostocka (Er
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,postgres,docker,aws,git,solidity,tensorflow,linux,vscode&perline=7" alt="Tech Stack" />
@@ -50,7 +48,7 @@ My journey includes a transformative semester at **Politechnika Białostocka (Er
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Analytics & Impact
 
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
@@ -66,7 +64,7 @@ My journey includes a transformative semester at **Politechnika Białostocka (Er
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -83,16 +81,16 @@ My journey includes a transformative semester at **Politechnika Białostocka (Er
 
 ---
 
-### 📂 Featured Projects
+### 📂 Selected Works
 
 | **Project** | **Description** | **Stack** |
 | :--- | :--- | :--- |
 | 🛍️ **[Alverro](https://github.com/221-Batuhan/Alverro)** | Exclusive e-commerce platform with modern UI/UX workflows. | `React` `Node.js` `TS` |
 | 🎨 **Portfolio** | My personal digital showcase designed with clean architecture. | `React` `Netlify` |
-| 🔗 **Blockchain DApp** | *Placeholder* - Decentralized exchange prototype. | `Solidity` `Web3.js` |
+| 🔗 **DeFi Prototype** | Decentralized exchange smart contracts and frontend. | `Solidity` `Web3.js` |
 
 ---
 
 <p align="center">
-  <i>Let's build something amazing together.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0aff60,00bfff&height=100&section=footer&text=&animation=fadeIn" width="100%" alt="Footer Decoration" />
 </p>
