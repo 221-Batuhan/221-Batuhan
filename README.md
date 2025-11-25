@@ -37,7 +37,7 @@ My background includes a global perspective gained during my Erasmus+ studies at
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,postgres,docker,aws,git,linux,solidity,tensorflow&theme=dark&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,postgres,docker,aws,git,solidity&theme=dark&perline=12" alt="Tech Stack" />
 </div>
 
 ---
@@ -46,7 +46,7 @@ My background includes a global perspective gained during my Erasmus+ studies at
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Alverro](https://github.com/221-Batuhan/Alverro)** | A modern full-stack e-commerce architecture. | `React` `Node.js` `TS` |
+| **[Alverro](https://github.com/221-Batuhan/Alverro)** | A modern full-stack e-commerce architecture designed for a luxury clothing brand Alverro(On-going project). | `React` `Node.js` `TS` |
 | **Portfolio** | Minimalist personal showcase site. | `React` `Netlify` |
 
 ---
