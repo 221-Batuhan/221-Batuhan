@@ -4,7 +4,6 @@
 
 ### Full-Stack Developer | AI & Blockchain Enthusiast | Cloud Architect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=react)](https://batuhanacan.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/batuhanacan221/)
 ![Status](https://img.shields.io/badge/Intern-SkyTrade-orange?style=for-the-badge)
 
@@ -14,46 +13,29 @@
 
 ## 👨‍💻 About Me
 
-I am a Senior **Computer Engineering student at Altınbaş University**, currently bridging theory and real-world application.  
-My academic journey also includes a transformative **Erasmus+ experience at Politechnika Białostocka** (Poland), which strengthened both my technical adaptability and cultural awareness.
+I am a Senior **Computer Engineering student at Altınbaş University**, blending academic knowledge with practical experience in real-world development.
 
-I am currently contributing to **SkyTrade** as a Full-Stack Development Intern, focusing on scalable architectures, cloud-native workflows, and integrations involving AI & blockchain technologies.
+My academic journey includes a formative Erasmus+ exchange at **Politechnika Białostocka** (Poland), enriching my global perspective and technical adaptability.
+
+Currently, I am working as a **Full-Stack Development Intern at SkyTrade**, where I focus on building scalable web systems, cloud-native workflows, and emerging Web3 technologies.
 
 - 🔭 **Currently working on:** Full-stack development @ SkyTrade  
 - 🌱 **Exploring:** Cloud Architecture, LLM integrations, Web3  
-- 🌍 **Languages:** English, Turkish, JavaScript, Python
+- 📫 **Email:** acan.batuhan34@gmail.com  
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-I build end-to-end modern applications using a wide and reliable tech stack.
+I build scalable digital ecosystems using modern tools from frontend UI to backend logic and cloud infrastructure.
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
 | **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
-| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white) |
-| **Blockchain** | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) |
+| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) |
+| **Blockchain** | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
-
----
-
-## 🚀 Preferred Architecture & Workflow
-
-```mermaid
-graph TD;
-    A[Client / Frontend] -->|REST / GraphQL| B[API Gateway];
-    B --> C[Auth Service];
-    B --> D[Core Application Service];
-    D -->|Data| E[(Database / Cloud Storage)];
-    D -->|Inference| F[AI Model Service];
-    D -->|Smart Contracts| G[Blockchain Network];
-    
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style D fill:#bbf,stroke:#333,stroke-width:2px
-    style G fill:#ff9,stroke:#333,stroke-width:2px
-```
 
 ---
 
@@ -61,40 +43,24 @@ graph TD;
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Personal Portfolio](https://batuhanacan.netlify.app/)** | A clean and interactive portfolio showcasing my journey and projects. | `React`, `Netlify`, `CSS3` |
-| **SkyTrade Integration (Internship)** | Contributing to trading platform development. *Details may be restricted due to NDA.* | `Full Stack`, `API Development` |
-| **AI Content Generator** | A tool leveraging LLMs to generate marketing content. | `Python`, `OpenAI API`, `Streamlit` |
-| **DeFi Exchange** | Prototype decentralized exchange for token swaps. | `Solidity`, `Ethers.js`, `React` |
+| **[Alverro](https://github.com/221-Batuhan/Alverro)** | A versatile full-stack project demonstrating modern architecture and clean component structures. | `React`, `Node.js`, `TypeScript` |
+| **SkyTrade (Internship)** | Contributions to trading-related systems and interfaces. *Some details may be restricted.* | `Full Stack`, `API Development` |
+| **AI Content Generator (Placeholder)** | A tool leveraging LLMs to generate contextualized content. | `Python`, `Streamlit` |
+| **DeFi Exchange (Prototype)** | A decentralized exchange prototype for token swapping. | `Solidity`, `Web3.js`, `React` |
 
 ---
 
-## ⚙️ Installation & Usage (General)
+## 📊 Commit Graph
 
-### Clone the repository
-```bash
-git clone https://github.com/batuhanacan221/your-repo-name.git
-```
+<div align="center">
 
-### Install dependencies
-```bash
-cd your-repo-name
-npm install
-```
+![GitHub Streak](https://streak-stats.demolab.com?user=batuhanacan221&theme=tokyonight&hide_border=true)
 
-### Run development server
-```bash
-npm run dev
-```
+![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batuhanacan221&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanacan221&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🗺️ Roadmap
-
-- [x] Complete Erasmus Exchange at **Politechnika Białostocka**  
-- [x] Secure Internship at **SkyTrade**  
-- [ ] Graduate from **Altınbaş University**  
-- [ ] Build a decentralized SaaS platform  
-- [ ] Earn AWS Solutions Architect Certification  
+</div>
 
 ---
 
@@ -105,11 +71,7 @@ npm run dev
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://batuhanacan.netlify.app/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" height="30" width="40" />
-</a>
-
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:acan.batuhan34@gmail.com" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" height="30" width="40" />
 </a>
 </p>
