@@ -5,7 +5,6 @@
 ### Full-Stack Developer | AI & Blockchain Enthusiast | Cloud Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/batuhanacan221/)
-![Status](https://img.shields.io/badge/Intern-SkyTrade-orange?style=for-the-badge)
 
 </div>
 
@@ -13,21 +12,20 @@
 
 ## 👨‍💻 About Me
 
-I am a Senior **Computer Engineering student at Altınbaş University**, blending academic knowledge with practical experience in real-world development.
+I am a Senior **Computer Engineering student at Altınbaş University**, blending academic foundations with real-world development experience.
 
-My academic journey includes a formative Erasmus+ exchange at **Politechnika Białostocka** (Poland), enriching my global perspective and technical adaptability.
+I also completed an Erasmus+ semester at **Politechnika Białostocka** in Poland, strengthening my global perspective and adaptability.
 
-Currently, I am working as a **Full-Stack Development Intern at SkyTrade**, where I focus on building scalable web systems, cloud-native workflows, and emerging Web3 technologies.
+My interests focus on **full-stack development**, **AI**, **blockchain**, and **cloud-native architectures**—building modern, scalable digital ecosystems.
 
-- 🔭 **Currently working on:** Full-stack development @ SkyTrade  
-- 🌱 **Exploring:** Cloud Architecture, LLM integrations, Web3  
+- 🌱 **Exploring:** LLM integrations, Microservices, Web3  
 - 📫 **Email:** acan.batuhan34@gmail.com  
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-I build scalable digital ecosystems using modern tools from frontend UI to backend logic and cloud infrastructure.
+I build scalable, modern applications using a diverse set of tools.
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
@@ -43,10 +41,8 @@ I build scalable digital ecosystems using modern tools from frontend UI to backe
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Alverro](https://github.com/221-Batuhan/Alverro)** | A versatile full-stack project demonstrating modern architecture and clean component structures. | `React`, `Node.js`, `TypeScript` |
-| **SkyTrade (Internship)** | Contributions to trading-related systems and interfaces. *Some details may be restricted.* | `Full Stack`, `API Development` |
-| **AI Content Generator (Placeholder)** | A tool leveraging LLMs to generate contextualized content. | `Python`, `Streamlit` |
-| **DeFi Exchange (Prototype)** | A decentralized exchange prototype for token swapping. | `Solidity`, `Web3.js`, `React` |
+| **[Alverro](https://github.com/221-Batuhan/Alverro)** | A full-stack project demonstrating clean architecture and modern UI/UX workflows. | `React`, `Node.js`, `TypeScript` |
+| **Personal Portfolio** | A minimal and clean personal site showcasing my work and background. | `React`, `CSS`, `Netlify` |
 
 ---
 
