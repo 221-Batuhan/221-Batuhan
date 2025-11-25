@@ -46,15 +46,15 @@ My journey includes a transformative semester at **Politechnika Białostocka (Er
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=batuhanacan221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Batuhan's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=221-Batuhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Batuhan's GitHub Stats" />
       </td>
       <td style="border: none; padding-left: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanacan221&theme=tokyonight&hide_border=true" alt="Batuhan's Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=221-Batuhan&theme=tokyonight&hide_border=true" alt="Batuhan's Streak" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanacan221&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -63,9 +63,9 @@ My journey includes a transformative semester at **Politechnika Białostocka (Er
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/batuhanacan221/batuhanacan221/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/batuhanacan221/batuhanacan221/blob/output/github-contribution-grid-snake.svg?raw=true">
-    <img alt="github contribution grid snake animation" src="https://github.com/batuhanacan221/batuhanacan221/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/221-Batuhan/221-Batuhan/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/221-Batuhan/221-Batuhan/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <img alt="github contribution grid snake animation" src="https://github.com/221-Batuhan/221-Batuhan/blob/output/github-contribution-grid-snake.svg?raw=true">
   </picture>
 </div>
 
