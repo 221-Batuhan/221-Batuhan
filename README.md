@@ -50,11 +50,17 @@ I build scalable, modern applications using a diverse set of tools.
 
 <div align="center">
 
+### 🔥 GitHub Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=221-Batuhan&theme=tokyonight&hide_border=true)
 
-![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=221-Batuhan&show_icons=true&theme=tokyonight&hide_border=true)
+### 📈 GitHub Profile Stats
+![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=221-Batuhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
+### 🔤 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🐍 GitHub Contribution Snake
+![GitHub Snake](https://github.com/221-Batuhan/221-Batuhan/raw/output/github-contribution-snake.svg)
 
 </div>
 
