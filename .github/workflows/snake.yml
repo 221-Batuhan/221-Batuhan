@@ -2,8 +2,8 @@ name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Her gün UTC 00:00'da çalışır
+  workflow_dispatch: # Manuel tetikleme
 
 jobs:
   build:
@@ -23,5 +23,5 @@ jobs:
           commit_message: "Update GitHub contribution snake 🌱"
           branch: output
           file_pattern: "dist/**"
-          author_name: "github-actions[bot]"
-          author_email: "actions@github.com"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "actions@github.com"
