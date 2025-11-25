@@ -1,0 +1,17 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Her gün UTC 00:00'da çalışır
+  workflow_dispatch: # Manuel tetikleme
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v1.2.0
+        with:
+          repo: ${{ github.repository }}
+          branch: main # Repo ana branch ismi
