@@ -52,7 +52,8 @@ My interests focus on **full-stack development**, **AI**, **blockchain**, and **
 ![GitHub Streak](https://streak-stats.demolab.com?user=221-Batuhan&theme=tokyonight&hide_border=true)
 
 ### 📈 GitHub Profile Stats
-![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=221-Batuhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=221-Batuhan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=tokyonight)
 
 ### 🔤 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=tokyonight&hide_border=true)
