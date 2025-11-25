@@ -46,7 +46,7 @@ My journey includes a transformative semester at **Politechnika Białostocka (Er
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=221-Batuhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Batuhan's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=221-Batuhan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Batuhan's GitHub Stats" />
       </td>
       <td style="border: none; padding-left: 10px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=221-Batuhan&theme=tokyonight&hide_border=true" alt="Batuhan's Streak" />
@@ -56,7 +56,7 @@ My journey includes a transformative semester at **Politechnika Białostocka (Er
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=221-Batuhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
