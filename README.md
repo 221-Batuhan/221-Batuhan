@@ -2,7 +2,7 @@
 
   <!-- Minimal Typing Header -->
   <a href="https://github.com/221-Batuhan">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Batuhan+Acan;Senior+Computer+Engineering+Student;Full-Stack+%7C+AI+%7C+Blockchain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=725&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Batuhan+Acan;Senior+Computer+Engineering+Student;Full-Stack+%7C+AI+%7C+Blockchain" alt="Typing SVG" />
   </a>
 
   <br/>
