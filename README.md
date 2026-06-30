@@ -24,13 +24,13 @@
 
 ## ⚡ About Me
 
-I am a final-year **Computer Engineering** student at **Altınbaş University**, currently working as an Intern at **SkyTrade**. 
+I am a final-year **Computer Engineering** student at **Altınbaş University**. I build full-stack web applications with a focus on clean backend logic and premium, deliberate frontend design. 
 
-My background includes a global perspective gained during my Erasmus+ studies at **Politechnika Białostocka**. I focus on building scalable web architectures and exploring decentralized technologies.
+Recently, I completed a high-impact internship at **SkyTrade**, where I collaborated with an international team to integrate 3D mapping components and secure real-time TradingView charts using robust backend JWT authentication. Having studied in Poland at **Politechnika Białostocka** on an Erasmus+ exchange, I bring a highly adaptable, cross-cultural mindset to my code. I am currently preparing for my next professional step by deepening my knowledge in enterprise backend structures and cloud technologies.
 
 * 🎓 **Status:** Senior Student (4th Year)
 * 💻 **Stack:** Full-Stack Development (React, Node.js, Python)
-* 🌐 **Interests:** AI Agents, Blockchain Protocols, Cloud Infrastructure
+* 🌐 **Interests:** Enterprise Backend Structures, AI Agents, Blockchain Protocols
 
 ---
 
@@ -46,8 +46,8 @@ My background includes a global perspective gained during my Erasmus+ studies at
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Alverro](https://github.com/221-Batuhan/Alverro)** | A modern full-stack e-commerce architecture designed for a luxury clothing brand Alverro(On-going project). | `React` `Node.js` `TS` |
-| **Portfolio** | Minimalist personal showcase site. | `React` `Netlify` |
+| **[Alverro](https://github.com/221-Batuhan/Alverro)** | A full-stack e-commerce architecture built for a luxury fashion brand. Features complex backend logic, custom routing, and secure iyzico payment integrations. | `React` `Node.js` `TS` |
+| **Portfolio** | Minimalist, dark-themed personal showcase site focusing on clean UI/UX principles. | `React` `Netlify` |
 
 ---
 
