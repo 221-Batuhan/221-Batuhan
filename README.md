@@ -47,7 +47,7 @@ Recently, I completed a high-impact internship at **SkyTrade**, where I collabor
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[Alverro](https://github.com/221-Batuhan/Alverro)** | A full-stack e-commerce architecture built for a luxury fashion brand. Features complex backend logic, custom routing, and secure iyzico payment integrations. | `React` `Node.js` `TS` |
-| **Portfolio** | Minimalist, dark-themed personal showcase site focusing on clean UI/UX principles. | `React` `Netlify` |
+| **[Weather App](https://github.com/221-Batuhan/my-weatherapp)** | A sleek, responsive weather application utilizing real-time API data integration, built with a focus on clean UI/UX principles. | `React` `REST API` `Tailwind CSS`|
 
 ---
 
